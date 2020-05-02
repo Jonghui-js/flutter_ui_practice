@@ -34,21 +34,21 @@ List<SliderModel> getSlides() {
   List<SliderModel> slides = new List<SliderModel>();
   SliderModel sliderModel = new SliderModel();
 
-  sliderModel.setImageAssetPath(("assets/illustration.png"));
+  sliderModel.setImageAssetPath("assets/illustration.png");
   sliderModel.setTitle("Search");
   sliderModel.setDesc(
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
   slides.add(sliderModel);
 
   sliderModel = new SliderModel();
-  sliderModel.setImageAssetPath(("assets/illustration2.png"));
+  sliderModel.setImageAssetPath("assets/illustration2.png");
   sliderModel.setTitle("Order");
   sliderModel.setDesc(
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
   slides.add(sliderModel);
 
   sliderModel = new SliderModel();
-  sliderModel.setImageAssetPath(("assets/illustration3.png"));
+  sliderModel.setImageAssetPath("assets/illustration3.png");
   sliderModel.setTitle("Eat");
   sliderModel.setDesc(
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.");
