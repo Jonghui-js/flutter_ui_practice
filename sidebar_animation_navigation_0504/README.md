@@ -12,3 +12,7 @@
 - Positioned 위젯은 Stack 위젯의 자식요소의 위치를 정하는데 사용됨. AnimatedPositioned도 있다.
 - ERRPR: type 'SideBar' is not a subtype of type 'StatelessWidget'는 stateless에서 stateful로 변경 후 재시작을 해주어야한다. R!!!! initState()는 restart시에만 콜되기 때문이다.
 - anaimation 변경 후도 마찬가지다.
+
+### 유튜브 채널
+
+[Techie Blossom](https://www.youtube.com/channel/UC3wqIkiaOUpO6EjJoCwH6_Q)
