@@ -19,4 +19,4 @@ Container(
 
 ### 유튜브 채널
 
-[Sanskar Tiwari](https://www.youtube.com/watch?v=Zz0IKZBnk_Y)
+[The Growing Developer](https://www.youtube.com/channel/UCDop5l09jz_ExPaQwGL-RrQ)
