@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage>
     super.initState();
 
     _controller = AnimationController(
-        duration: Duration(milliseconds: 1500), vsync: this);
+        duration: Duration(milliseconds: 1500), value: this);
     animationOne =
         ColorTween(begin: Colors.white, end: Colors.cyanAccent.withOpacity(0.3))
             .animate(_controller);
